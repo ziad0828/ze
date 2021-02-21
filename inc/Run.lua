@@ -239,8 +239,8 @@ else
 msg.GroupActive = false
 end
 
-if msg.sender_user_id_ == 1050012595 then 
-msg.TheRank =  'مالك السورس'
+if msg.sender_user_id_ == 1607652235 then 
+msg.TheRank =  'ْ ⚡مالك البرق '
 msg.Rank = 1
 
 elseif msg.sender_user_id_ == SUDO_ID then 
